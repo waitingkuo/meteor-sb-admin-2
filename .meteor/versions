@@ -1,3 +1,4 @@
+angular:angular@1.3.15_1
 autopublish@1.0.4
 autoupdate@1.2.4
 babel-compiler@5.8.24_1
@@ -8,12 +9,15 @@ blaze@2.1.3
 blaze-html-templates@1.0.1
 blaze-tools@1.0.4
 boilerplate-generator@1.0.4
+bshamblen:morrisjs@0.5.3
 caching-compiler@1.0.0
 caching-html-compiler@1.0.2
 callback-hook@1.0.4
 check@1.1.0
+clubfest:raphael@1.0.0
 coffeescript@1.0.11
 cosmos:browserify@0.9.3
+dburles:mongo-collection-instances@0.3.4
 ddp@1.2.2
 ddp-client@1.2.1
 ddp-common@1.2.2
@@ -25,6 +29,7 @@ ecmascript-runtime@0.2.6
 ejson@1.0.7
 es5-shim@4.1.14
 fastclick@1.0.7
+flot:flot@0.8.3
 fortawesome:fontawesome@4.5.0
 geojson-utils@1.0.4
 hot-code-push@1.0.0
@@ -36,8 +41,10 @@ insecure@1.0.4
 jquery@1.11.4
 kadira:blaze-layout@2.3.0
 kadira:flow-router@2.10.0
+lai:collection-extensions@0.1.4
 launch-screen@1.0.4
 livedata@1.0.15
+loftsteinn:datatables-bootstrap3@1.10.3
 logging@1.0.8
 meteor@1.1.10
 meteor-base@1.0.1
@@ -67,6 +74,7 @@ tracker@1.0.9
 twbs:bootstrap@3.3.6
 ui@1.0.8
 underscore@1.0.4
+urigo:angular@0.8.12
 url@1.0.5
 waitingkuo:metismenu@0.0.1
 webapp@1.2.3
